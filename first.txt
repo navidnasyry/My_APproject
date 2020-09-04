@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 This is first file -> 1
 
+=======
+This is first file->1
+changed
+>>>>>>> fix
